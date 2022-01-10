@@ -1,1 +1,3 @@
 # software_architecture_as_code_android
+
+Software Architectureをコードで表現するためのgradle拡張
